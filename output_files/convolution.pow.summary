@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Fri Mar 29 12:32:28 2024
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : convolution
+Top-level Entity Name : convolution
+Family : Cyclone V
+Device : 5CGXFC9C7F23C8
+Power Models : Final
+Total Thermal Power Dissipation : 528.30 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 520.94 mW
+I/O Thermal Power Dissipation : 7.36 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data
